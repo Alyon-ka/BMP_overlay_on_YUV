@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alyona\Desktop\Тестовое Элекард\Project\build\CMakeFiles\6946712424568fe1c651fb60479cd38c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8E5A7C01-2151-355C-8902-AE14FEC770F7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

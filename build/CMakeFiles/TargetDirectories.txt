@@ -1,0 +1,4 @@
+C:/Users/Alyona/Desktop/Тестовое Элекард/Project/build/CMakeFiles/INSTALL.dir
+C:/Users/Alyona/Desktop/Тестовое Элекард/Project/build/CMakeFiles/TestWork.dir
+C:/Users/Alyona/Desktop/Тестовое Элекард/Project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Alyona/Desktop/Тестовое Элекард/Project/build/CMakeFiles/ZERO_CHECK.dir
